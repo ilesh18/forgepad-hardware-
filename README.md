@@ -52,13 +52,12 @@ OLED display version (V3)<br>
 Better enclosure design<br><br>
 
 <b>Repo structure</b><br>
-firmware/ → KMK firmware<br><img width="936" height="653" alt="Screenshot 2026-01-20 031207" src="https://github.com/user-attachments/assets/f64c9889-f8d4-44ea-b6c2-c33bc37ee91a" />
+<img width="936" height="653" alt="Screenshot 2026-01-20 031207" src="https://github.com/user-attachments/assets/1b6495c3-568f-4548-b44c-144c30f64efa" />
+<img width="1150" height="681" alt="Screenshot 2026-01-20 033316" src="https://github.com/user-attachments/assets/3a8a6e54-7a43-4dd4-aa4d-19c3a56a2da0" />
+<img width="930" height="433" alt="Screenshot 2026-01-20 033238" src="https://github.com/user-attachments/assets/2bd94280-3bff-4d94-aa3d-031b40a9ab7e" />
+<img width="1244" height="686" alt="Screenshot 2026-01-20 033156" src="https://github.com/user-attachments/assets/2090e297-2def-4ba5-8b0c-71603d45149d" />
+<img width="515" height="629" alt="Screenshot 2026-01-20 031328" src="https://github.com/user-attachments/assets/8e47c557-bac2-4c98-b802-ad9120ad9b8d" />
 
-hardware/ → schematic, PCB, enclosure<br>
-assets/ → renders, photos<br><br><img width="515" height="629" alt="Screenshot 2026-01-20 031328" src="https://github.com/user-attachments/assets/71959bec-430f-404c-a002-9c71270633fd" />
-<img width="1244" height="686" alt="Screenshot 2026-01-20 033156" src="https://github.com/user-attachments/assets/d5f9d38f-1bf6-466c-9882-5ab6e598f969" />
-<img width="930" height="433" alt="Screenshot 2026-01-20 033238" src="https://github.com/user-attachments/assets/8cc301fd-75a3-4ad0-8c20-4ed5abb06c12" />
-<img width="1150" height="681" alt="Screenshot 2026-01-20 033316" src="https://github.com/user-attachments/assets/caa8cb57-0316-4812-99fc-5752d022439e" />
 
 
 </p>
