@@ -30,7 +30,6 @@ To learn embedded systems properly<br>
 To build real hardware, not simulations<br>
 To understand firmware + USB HID<br>
 To move beyond frontend-only projects<br><br>
-<b>Repo structure</b><br>
 <img width="936" height="653" alt="Screenshot 2026-01-20 031207" src="https://github.com/user-attachments/assets/1b6495c3-568f-4548-b44c-144c30f64efa" />
 <img width="1150" height="681" alt="Screenshot 2026-01-20 033316" src="https://github.com/user-attachments/assets/3a8a6e54-7a43-4dd4-aa4d-19c3a56a2da0" />
 <img width="930" height="433" alt="Screenshot 2026-01-20 033238" src="https://github.com/user-attachments/assets/2bd94280-3bff-4d94-aa3d-031b40a9ab7e" />
