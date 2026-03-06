@@ -1349,15 +1349,15 @@
 				)
 			)
 		)
-		(property "Value" "SK6812"
-			(at 0 3.25 0)
-			(layer "F.Fab")
-			(uuid "71e6ccaf-ce9f-4af1-8d65-0f5715ce18a9")
+		(property "Value" "SK6812MINI-E"
+			(at 1.27 -5.715 0)
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
+				(justify left top)
 			)
 		)
 		(property "Datasheet" ""
@@ -1373,17 +1373,13 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RGB LED with integrated controller"
 			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "aa86ceab-eb3a-4462-997c-a2a092a8c93c")
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
 				)
+				(hide yes)
 			)
 		)
 		(property ki_fp_filters "LED*SK6812*PLCC*5.0x5.0mm*P3.2mm*")
@@ -6054,3 +6050,4 @@
 	)
 	(embedded_fonts no)
 )
+
