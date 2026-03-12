@@ -12,7 +12,6 @@ A compact, programmable macro keypad.<br>
 Built for coding shortcuts, workflows, and automation.<br>
 Plug & play as a USB keyboard.<br>
 Fully reconfigurable using Python (KMK firmware).<br><br>
-
 <b>components used </b><br>
 RP2040 (Seeed Studio XIAO RP2040)<br>
 9 Switches - Cherry MX Compatible Mechanical Switches (3×3 layout)<br>
@@ -20,8 +19,6 @@ RP2040 (Seeed Studio XIAO RP2040)<br>
 Custom PCB<br>
 Custom enclosure<br>
 CircuitPython + KMK firmware<br><br>
-
-
 <b>Why I built this</b><br>
 To learn embedded systems properly<br>
 To build real hardware, not simulations<br>
