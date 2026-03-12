@@ -1,15 +1,12 @@
 <p>
 <b>Hey, I’m building HackPad !</b><br><br>
-
 I’m designing and building a custom macro keyboard from scratch.<br>
 HackPad is a 9-key programmable keypad powered by RP2040 and KMK firmware.<br>
 Everything — schematic, PCB, enclosure, and firmware — is built by me.<br>
 This project is about learning real hardware design and firmware not tutorials.<br><br>
-
 I’m building HackPad to move beyond frontend-only projects.<br>
 To understand embedded systems, USB HID, and PCB design properly.<br>
 To ship a real physical product that actually works.<br><br>
-
 <b>What HackPad is</b><br>
 A compact, programmable macro keypad.<br>
 Built for coding shortcuts, workflows, and automation.<br>
