@@ -19,7 +19,7 @@ RP2040 (Seeed Studio XIAO RP2040)<br>
 Custom PCB<br>
 Custom enclosure<br>
 CircuitPython + KMK firmware<br><br>
-<b>Why I built this</b><br>
+<b>Why built this</b><br>
 To learn embedded systems properly<br>
 To build real hardware, not simulations<br>
 To understand firmware + USB HID<br>
